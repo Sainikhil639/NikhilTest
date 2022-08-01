@@ -1,9 +1,7 @@
-.hcenter{
-text-align:center;
-}
 h1{
 color : white;
 background: red;
+padding: 20px;
 }
 p{
 background: yellow;
@@ -33,4 +31,26 @@ body {
 img {
     height: 350px;
     width: 750px;
+}
+select{
+    padding: 10px;
+    text-align: center;
+    background-color: #f0ebeb;
+    font-size: x-large;
+    margin: -11px 6px;
+}
+input{
+	background-color: #f8f9fa;
+    padding: 3px 10px;
+    border-radius: 2px 0 0 2px;
+    font-size: 14px;
+    height: 36px;
+    width: 100%;
+    border: 0;
+    outline: 0;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0px;
 }
