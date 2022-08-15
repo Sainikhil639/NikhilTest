@@ -3,9 +3,8 @@
 .bottom-section-card {
     text-align: center;
     margin: 10px 25px;
-	cursor: pointer;
-	background-size:cover;
-	width:100vw;
+    cursor: pointer;
+    width:100%;
 	
 }
 .slides{
