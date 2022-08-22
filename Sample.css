@@ -24,7 +24,7 @@
 .title {
     color: white;
     font-family: Bree Serif;
-    margin : 5px 18px;
+    padding: 7px;
 }
 
 .para {
@@ -33,6 +33,7 @@
     font-weight: bold;
     font-size: 16px;
 }
+
 
 .button {
     background-color: #ffffff;
@@ -53,4 +54,36 @@
     color: red;
     background-color: yellow;
 
+}
+.body{
+    background-image: url("https://img.freepik.com/free-photo/white-simple-textured-design-background_53876-102423.jpg?w=740&t=st=1661159159~exp=1661159759~hmac=8295437d0a653cdbdac6c28c809753e2339fddd6fc5026037515def00f252dcb");
+}
+
+
+.about-image{
+    width:20%;
+    height:50%;
+    border-radius: 150%;   
+    
+}
+    
+
+.copyright-txt{
+    color:#ffffff;
+    font-size: 15px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.about-section{
+    
+    text-align: center;
+}
+.about-para{
+    color: #e6dbdb;
+    font-size: 20px;
+    font-weight: bold;
+}
+.about-padding{
+    padding: 80px;
 }
